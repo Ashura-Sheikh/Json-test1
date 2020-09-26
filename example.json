@@ -1,0 +1,12 @@
+{
+  "name": "sheikh",
+  "favouriteNumber": 3,
+  "isProgrammer": true,
+  "Hobbies": ["Cricket", "Soccer", "Basketball"],
+  "friends" : [{
+    "name": "Ashura",
+    "favouriteNumber":5,
+    "isProgrammer": false,
+    "Hobbies": ["Cricket", "Basketball"]
+    }]
+}
